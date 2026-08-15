@@ -1,3 +1,3 @@
-module github.com/Zimin0/addMe
+module addMe
 
 go 1.21.3
